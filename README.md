@@ -45,7 +45,7 @@ Ces dépôts sont des **sources à auditer**, pas des modèles à recopier autom
 
 ### Itération 00 — Audit des dépôts Kafka existants
 
-Statut : **en cours / documentation créée**
+Statut : **TERMINÉE**
 
 Livrables :
 
@@ -55,6 +55,12 @@ Livrables :
 - `docs/audit/KAFKA_MODERNIZATION_PLAN.md`
 
 Aucune installation Kafka n'est réalisée pendant cette itération.
+
+### Prochaine étape
+
+**Itération 01 — Kafka Enterprise Use Cases**
+
+Objectif : comprendre et documenter où Kafka est pertinent en entreprise, quand il ne l'est pas, et comparer Kafka aux principales alternatives avant de concevoir MayaBank.
 
 ## Principes techniques actuels
 
